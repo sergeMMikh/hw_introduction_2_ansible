@@ -29,11 +29,10 @@
 ---
 
 4. Проведите запуск playbook на окружении из `prod.yml`. Зафиксируйте полученные значения `some_fact` для каждого из `managed host`.
----
 
   **Решение**
 
-  <img src="images/Task_3_1.png" alt="Task_3_1.png" width="200" height="auto">
+  <img src="images/Task_3_0_1.png" alt="Task_3_1.png" width="200" height="auto">
 
 ---
 
@@ -42,7 +41,7 @@
 
 **Решение**
 
----
+<img src="images/Task_3_1.png" alt="Task_3_1.png" width="200" height="auto">
 
 6.  Повторите запуск playbook на окружении `prod.yml`. Убедитесь, что выдаются корректные значения для всех хостов.
 ---
